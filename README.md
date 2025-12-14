@@ -1,4 +1,4 @@
-#CSC1001-Fall-2023
+# CSC1001-Fall-2023
 Acknowledgment
 These assignments are designed with efforts by the professors and TA in CUHK(SZ).
 
